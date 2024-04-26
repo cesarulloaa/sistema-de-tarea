@@ -14,7 +14,7 @@ Este es un proyecto de aplicación JavaFX para gestionar tareas. Permite agregar
 
 - JDK (Java Development Kit) 8 o superior.
 - IDE compatible con Java, como IntelliJ IDEA, Eclipse o NetBeans.
-- Conexión a una base de datos compatible (MySQL, PostgreSQL, etc.) para el almacenamiento de datos.
+- Conexión a una base de datos compatible como MySQL para el almacenamiento de datos.
 
 ## Instalación y configuración
 
